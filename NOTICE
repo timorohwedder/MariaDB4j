@@ -1,0 +1,9 @@
+MariaDB4j
+
+Copyright (C) 2012 - 2014 Michael Vorburger and others
+
+Some JAR archive file distributions of this product include
+MariaDB binaries, which are covered by the GNU GENERAL PUBLIC LICENSE (GPL).
+
+Here is a link allowing you to download MariaDB's source code:
+https://mariadb.com/kb/en/mariadb/documentation/getting-started/compiling-mariadb-from-source/source-getting-the-mariadb-source-code/
